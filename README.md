@@ -10,9 +10,13 @@
 
 ### Results I have achieved
 ✅ Built custom bioinformatics pipelines that improved research efficiency by up to **30%**.
+
 ✅ Automated microbiome analysis workflows and maintained data integrity across **1,500+ experimental records**.
+
 ✅ Developed a biological database that reduced lookup time by **10 hours per week**.
+
 ✅ Created **ETL pipelines in R** for **1000+ samples**, reducing analysis time by **35%**.
+
 ✅ Designed **3** attractive and insightful dashboards with **R shiny**.
 
 ## Did you like what you saw? Contact me!
